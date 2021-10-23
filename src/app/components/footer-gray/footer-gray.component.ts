@@ -6,7 +6,7 @@ import { Component } from '@angular/core'
   styleUrls: ['footer-gray.component.css'],
 })
 export class FooterGray {
-  rawyt2m: string = ' '
+  rawfhj6: string = ' '
 
   constructor() {}
 }

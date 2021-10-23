@@ -7,7 +7,7 @@ import { Title, Meta } from '@angular/platform-browser'
   styleUrls: ['profile.component.css'],
 })
 export class Profile {
-  rawyef8: string = ' '
+  raw6m8h: string = ' '
 
   constructor(private title: Title, private meta: Meta) {
     this.title.setTitle('Profile - Soft UI Pro')
